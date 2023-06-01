@@ -1,0 +1,37 @@
+C:\Users\meachello\AppData\Local\Temp\rider-publish9111121811445288080\Dota API.exe
+C:\Users\meachello\AppData\Local\Temp\rider-publish9111121811445288080\appsettings.Development.json
+C:\Users\meachello\AppData\Local\Temp\rider-publish9111121811445288080\appsettings.json
+C:\Users\meachello\AppData\Local\Temp\rider-publish9111121811445288080\Dota API.dll
+C:\Users\meachello\AppData\Local\Temp\rider-publish9111121811445288080\Dota API.deps.json
+C:\Users\meachello\AppData\Local\Temp\rider-publish9111121811445288080\Dota API.runtimeconfig.json
+C:\Users\meachello\AppData\Local\Temp\rider-publish9111121811445288080\Dota API.pdb
+C:\Users\meachello\AppData\Local\Temp\rider-publish9111121811445288080\Google.Protobuf.dll
+C:\Users\meachello\AppData\Local\Temp\rider-publish9111121811445288080\K4os.Compression.LZ4.dll
+C:\Users\meachello\AppData\Local\Temp\rider-publish9111121811445288080\K4os.Compression.LZ4.Streams.dll
+C:\Users\meachello\AppData\Local\Temp\rider-publish9111121811445288080\K4os.Hash.xxHash.dll
+C:\Users\meachello\AppData\Local\Temp\rider-publish9111121811445288080\Microsoft.OpenApi.dll
+C:\Users\meachello\AppData\Local\Temp\rider-publish9111121811445288080\Microsoft.Win32.SystemEvents.dll
+C:\Users\meachello\AppData\Local\Temp\rider-publish9111121811445288080\MySql.Data.dll
+C:\Users\meachello\AppData\Local\Temp\rider-publish9111121811445288080\BouncyCastle.Crypto.dll
+C:\Users\meachello\AppData\Local\Temp\rider-publish9111121811445288080\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\meachello\AppData\Local\Temp\rider-publish9111121811445288080\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\meachello\AppData\Local\Temp\rider-publish9111121811445288080\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\meachello\AppData\Local\Temp\rider-publish9111121811445288080\System.Configuration.ConfigurationManager.dll
+C:\Users\meachello\AppData\Local\Temp\rider-publish9111121811445288080\System.Drawing.Common.dll
+C:\Users\meachello\AppData\Local\Temp\rider-publish9111121811445288080\System.IO.Pipelines.dll
+C:\Users\meachello\AppData\Local\Temp\rider-publish9111121811445288080\System.Security.Cryptography.ProtectedData.dll
+C:\Users\meachello\AppData\Local\Temp\rider-publish9111121811445288080\System.Security.Permissions.dll
+C:\Users\meachello\AppData\Local\Temp\rider-publish9111121811445288080\System.Text.Encodings.Web.dll
+C:\Users\meachello\AppData\Local\Temp\rider-publish9111121811445288080\System.Text.Json.dll
+C:\Users\meachello\AppData\Local\Temp\rider-publish9111121811445288080\System.Windows.Extensions.dll
+C:\Users\meachello\AppData\Local\Temp\rider-publish9111121811445288080\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\meachello\AppData\Local\Temp\rider-publish9111121811445288080\runtimes\win-x64\native\comerr64.dll
+C:\Users\meachello\AppData\Local\Temp\rider-publish9111121811445288080\runtimes\win-x64\native\gssapi64.dll
+C:\Users\meachello\AppData\Local\Temp\rider-publish9111121811445288080\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\meachello\AppData\Local\Temp\rider-publish9111121811445288080\runtimes\win-x64\native\krb5_64.dll
+C:\Users\meachello\AppData\Local\Temp\rider-publish9111121811445288080\runtimes\win-x64\native\krbcc64.dll
+C:\Users\meachello\AppData\Local\Temp\rider-publish9111121811445288080\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\meachello\AppData\Local\Temp\rider-publish9111121811445288080\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\meachello\AppData\Local\Temp\rider-publish9111121811445288080\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\meachello\AppData\Local\Temp\rider-publish9111121811445288080\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\meachello\AppData\Local\Temp\rider-publish9111121811445288080\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll

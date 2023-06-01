@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dota API", "Dota API\Dota API.csproj", "{D51C3B83-6D02-438B-8676-46BA0B6A4CAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D51C3B83-6D02-438B-8676-46BA0B6A4CAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D51C3B83-6D02-438B-8676-46BA0B6A4CAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D51C3B83-6D02-438B-8676-46BA0B6A4CAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D51C3B83-6D02-438B-8676-46BA0B6A4CAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

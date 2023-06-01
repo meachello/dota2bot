@@ -1,0 +1,53 @@
+C:\Users\meachello\RiderProjects\Dota API\Dota API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\meachello\RiderProjects\Dota API\Dota API\bin\Debug\net6.0\appsettings.json
+C:\Users\meachello\RiderProjects\Dota API\Dota API\bin\Debug\net6.0\Dota API.exe
+C:\Users\meachello\RiderProjects\Dota API\Dota API\bin\Debug\net6.0\Dota API.deps.json
+C:\Users\meachello\RiderProjects\Dota API\Dota API\bin\Debug\net6.0\Dota API.runtimeconfig.json
+C:\Users\meachello\RiderProjects\Dota API\Dota API\bin\Debug\net6.0\Dota API.dll
+C:\Users\meachello\RiderProjects\Dota API\Dota API\bin\Debug\net6.0\Dota API.pdb
+C:\Users\meachello\RiderProjects\Dota API\Dota API\obj\Debug\net6.0\Dota API.csproj.AssemblyReference.cache
+C:\Users\meachello\RiderProjects\Dota API\Dota API\obj\Debug\net6.0\Dota API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meachello\RiderProjects\Dota API\Dota API\obj\Debug\net6.0\Dota API.AssemblyInfoInputs.cache
+C:\Users\meachello\RiderProjects\Dota API\Dota API\obj\Debug\net6.0\Dota API.AssemblyInfo.cs
+C:\Users\meachello\RiderProjects\Dota API\Dota API\obj\Debug\net6.0\Dota API.csproj.CoreCompileInputs.cache
+C:\Users\meachello\RiderProjects\Dota API\Dota API\obj\Debug\net6.0\Dota API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\meachello\RiderProjects\Dota API\Dota API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\meachello\RiderProjects\Dota API\Dota API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\meachello\RiderProjects\Dota API\Dota API\obj\Debug\net6.0\scopedcss\bundle\Dota API.styles.css
+C:\Users\meachello\RiderProjects\Dota API\Dota API\obj\Debug\net6.0\Dota API.dll
+C:\Users\meachello\RiderProjects\Dota API\Dota API\obj\Debug\net6.0\refint\Dota API.dll
+C:\Users\meachello\RiderProjects\Dota API\Dota API\obj\Debug\net6.0\Dota API.pdb
+C:\Users\meachello\RiderProjects\Dota API\Dota API\obj\Debug\net6.0\Dota API.genruntimeconfig.cache
+C:\Users\meachello\RiderProjects\Dota API\Dota API\obj\Debug\net6.0\ref\Dota API.dll
+C:\Users\meachello\RiderProjects\Dota API\Dota API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\meachello\RiderProjects\Dota API\Dota API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\meachello\RiderProjects\Dota API\Dota API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\meachello\RiderProjects\Dota API\Dota API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\meachello\RiderProjects\Dota API\Dota API\obj\Debug\net6.0\Dota API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\meachello\RiderProjects\Dota API\Dota API\obj\Debug\net6.0\Dota API.csproj.CopyComplete
+C:\Users\meachello\RiderProjects\Dota API\Dota API\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\meachello\RiderProjects\Dota API\Dota API\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\meachello\RiderProjects\Dota API\Dota API\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\meachello\RiderProjects\Dota API\Dota API\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\meachello\RiderProjects\Dota API\Dota API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\meachello\RiderProjects\Dota API\Dota API\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\meachello\RiderProjects\Dota API\Dota API\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\meachello\RiderProjects\Dota API\Dota API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\meachello\RiderProjects\Dota API\Dota API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\meachello\RiderProjects\Dota API\Dota API\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\meachello\RiderProjects\Dota API\Dota API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\meachello\RiderProjects\Dota API\Dota API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\meachello\RiderProjects\Dota API\Dota API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\meachello\RiderProjects\Dota API\Dota API\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\meachello\RiderProjects\Dota API\Dota API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\meachello\RiderProjects\Dota API\Dota API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\meachello\RiderProjects\Dota API\Dota API\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\meachello\RiderProjects\Dota API\Dota API\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\meachello\RiderProjects\Dota API\Dota API\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\meachello\RiderProjects\Dota API\Dota API\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\meachello\RiderProjects\Dota API\Dota API\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\meachello\RiderProjects\Dota API\Dota API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\meachello\RiderProjects\Dota API\Dota API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\meachello\RiderProjects\Dota API\Dota API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\meachello\RiderProjects\Dota API\Dota API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\meachello\RiderProjects\Dota API\Dota API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
