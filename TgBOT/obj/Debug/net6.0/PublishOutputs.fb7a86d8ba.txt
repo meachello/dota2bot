@@ -1,0 +1,9 @@
+C:\Users\meachello\AppData\Local\Temp\rider-publish16175052663790347203\TgBOT.exe
+C:\Users\meachello\AppData\Local\Temp\rider-publish16175052663790347203\appsettings.Development.json
+C:\Users\meachello\AppData\Local\Temp\rider-publish16175052663790347203\appsettings.json
+C:\Users\meachello\AppData\Local\Temp\rider-publish16175052663790347203\TgBOT.dll
+C:\Users\meachello\AppData\Local\Temp\rider-publish16175052663790347203\TgBOT.deps.json
+C:\Users\meachello\AppData\Local\Temp\rider-publish16175052663790347203\TgBOT.runtimeconfig.json
+C:\Users\meachello\AppData\Local\Temp\rider-publish16175052663790347203\TgBOT.pdb
+C:\Users\meachello\AppData\Local\Temp\rider-publish16175052663790347203\Newtonsoft.Json.dll
+C:\Users\meachello\AppData\Local\Temp\rider-publish16175052663790347203\Telegram.Bot.dll
